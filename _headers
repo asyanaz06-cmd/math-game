@@ -1,2 +1,6 @@
+/Build/*
+Access-Control-Allow-Origin: *
+
 /Build/*.wasm
 Content-Type: application/wasm
+Content-Encoding: identity
